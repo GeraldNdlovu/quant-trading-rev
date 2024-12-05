@@ -1,8 +1,8 @@
-# Quant-trading
+# Quantitative-trading
 
 &nbsp;
 
-## Intro
+## Introduction
 
 &nbsp;
 
